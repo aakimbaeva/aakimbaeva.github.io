@@ -8,5 +8,5 @@ Adept at conducting comprehensive intake request analysis, client analysis, and 
 
 I have a Bachelor's degree in Business Administration and a Master's degree in Data Science. Passionate about driving positive change through data-driven decision-making and dedicated to continuous learning and professional development.
 
-My CV in [pdf](https://github.com/aakimbaeva/aakimbaeva.github.io/blob/master/src/assets/CV_Azhara.pdf).
+More details about my expereince are [here](https://github.com/aakimbaeva/aakimbaeva.github.io/blob/master/src/assets/CV_Azhara.pdf).
 
